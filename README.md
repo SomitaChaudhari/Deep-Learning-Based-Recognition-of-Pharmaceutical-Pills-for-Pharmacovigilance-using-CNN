@@ -1,5 +1,4 @@
-# 💊 Deep Learning-Based Recognition of Pharmaceutical Pills for Pharmacovigilance using CNN
-
+# 💊 Deep Learning-Based Recognition of Pharmaceutical Pills for Pharmacovigilance using CNN 
 
 ## 📖 Introduction & Importance  
 Medication safety is a global challenge, with dispensing and misidentification errors causing significant patient harm and financial strain on healthcare systems. Traditional safeguards such as **barcoding** and **electronic prescribing** reduce—but do not eliminate—the risk of administering the wrong medication.  
@@ -62,3 +61,5 @@ This project introduces a **deep learning–based pill recognition framework** u
   - Increase dataset diversity across pill shapes, imprints, and lighting conditions.  
   - Explore **multi-modal fusion** (image + text imprint recognition).  
   - Build APIs for integration with **supply chain monitoring systems**.  
+
+👉 [Watch demo video](./app%20demo.mov)
