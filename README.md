@@ -1,4 +1,4 @@
-#💊 Deep Learning-Based Recognition of Pharmaceutical Pills for Pharmacovigilance using CNN
+# 💊 Deep Learning-Based Recognition of Pharmaceutical Pills for Pharmacovigilance using CNN
 
 
 ## 📖 Introduction & Importance  
