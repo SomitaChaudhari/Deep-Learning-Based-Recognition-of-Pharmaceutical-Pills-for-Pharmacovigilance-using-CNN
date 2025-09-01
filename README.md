@@ -4,6 +4,8 @@
 
 *Mentor: Dr. Michael Brown*
 
+https://doi.org/10.5281/zenodo.17027912
+
 ## 📖 Introduction & Importance  
 Medication safety is a global challenge, with dispensing and misidentification errors causing significant patient harm and financial strain on healthcare systems. Traditional safeguards such as **barcoding** and **electronic prescribing** reduce—but do not eliminate—the risk of administering the wrong medication.  
 
