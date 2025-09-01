@@ -1,7 +1,7 @@
 # 💊 Deep Learning-Based Recognition of Pharmaceutical Pills for Pharmacovigilance using CNN 
 --
-** Somita Chaudhari, Tiffany Brown
-** Mentor: Dr. Michael Brown
+*Somita Chaudhari, Tiffany Brown*
+*Mentor: Dr. Michael Brown*
 
 ## 📖 Introduction & Importance  
 Medication safety is a global challenge, with dispensing and misidentification errors causing significant patient harm and financial strain on healthcare systems. Traditional safeguards such as **barcoding** and **electronic prescribing** reduce—but do not eliminate—the risk of administering the wrong medication.  
