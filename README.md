@@ -13,7 +13,7 @@ This project introduces a **deep learning–based pill recognition framework** u
 
 ## 📊 Data Overview  
 - **Source**: Kaggle dataset of 10 popular pharmaceutical pills & vitamins.  
-- **Size**: ~10,200 images (1,020 images per class after augmentation).  
+- **Size**: ~10,020 images (1,002 images per class after augmentation).  
 - **Image Setup**: Authentic pills on **synthetic backgrounds** to simulate real-world conditions.  
 - **Preprocessing**:  
   - Resized to 128×128 pixels  
