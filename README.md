@@ -7,7 +7,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17028109.svg)](https://doi.org/10.5281/zenodo.17028109)
 
 ## 📖 Introduction & Importance  
-Medication safety is a global challenge, with dispensing and misidentification errors causing significant patient harm and financial strain on healthcare systems. Traditional safeguards such as **barcoding** and **electronic prescribing** reduce—but do not eliminate—the risk of administering the wrong medication.  
+Medication safety is a global challenge, with dispensing and misidentification errors causing significant patient harm and financial strain on healthcare systems. Traditional safeguards such as **barcoding** and **electronic prescribing** reduce,but do not eliminate the risk of administering the wrong medication.  
 
 This project introduces a **deep learning–based pill recognition framework** using **Convolutional Neural Networks (CNNs)**. By directly analyzing pill images instead of packaging, it adds a **critical layer of pharmacovigilance**, strengthening patient trust, supply chain security, and pharmacist efficiency.  
 
