@@ -69,3 +69,5 @@ This project introduces a **deep learning–based pill recognition framework** u
   - Build APIs for integration with **supply chain monitoring systems**.  
 
 👉 [Watch demo video](./app%20demo.mov)
+
+All rights reserved.
